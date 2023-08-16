@@ -1,0 +1,27 @@
+{
+  "feedback": [
+    
+    {
+      "id": 14,
+      "rating": 9,
+      "text": "Mükemmel bir ambiyansa sahip."
+    },
+    {
+      "id": 15,
+      "rating": 5,
+      "text": "Вкусно, но мне показалось дороговато."
+    },
+    {
+      "id": 17,
+      "rating": 9,
+      "text": "Удивительный опыт!"
+    },
+    {
+      "id": 18,
+      "rating": 4,
+      "text": "Il cibo era deludente."
+    },
+   
+    
+  ]
+}

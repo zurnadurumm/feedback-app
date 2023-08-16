@@ -12,9 +12,9 @@ function Rating({ select }) {
     )
     const [selected, setSelected] = useState(10)
     const handleChange = (e) => {
-        const newSelected = +e.currentTarget.value;
-        setSelected(newSelected)
-        select(newSelected)
+
+        setSelected(+e.currentTarget.value)
+        select(+e.currentTarget.value)
     }
     return (
         <>
